@@ -1,0 +1,10 @@
+﻿  lab11.c
+H:\VS-Lab\lab11\lab11.c(37,12): error C2085:  'main': biçimsel parametre listesinde yok
+H:\VS-Lab\lab11\lab11.c(37,12): error C2143:  sözdizimi hatası: ';' eksik ('{' öncesinde)
+H:\VS-Lab\lab11\lab11.c(62,10): warning C4013:  'read_arr' tanımsız; int döndüren extern olduğu varsayılıyor
+H:\VS-Lab\lab11\lab11.c(64,26): error C2065:  'numbers': bildirimi yapılmamış tanımlayıcı
+H:\VS-Lab\lab11\lab11.c(64,26): warning C4047:  'işlev': 'int *', yöneltme düzeyi sayısı bakımından 'int' ile aynı değil
+H:\VS-Lab\lab11\lab11.c(64,26): warning C4024:  'isPalindrome': 1 biçimsel ve gerçek parametresi için farklı türler
+H:\VS-Lab\lab11\lab11.c(69,10): warning C4098:  'read_Arr': 'void' işlev değer döndürüyor
+H:\VS-Lab\lab11\lab11.c(115,3): error C2059:  sözdizimi hatası: 'return'
+H:\VS-Lab\lab11\lab11.c(130,6): error C2371:  'read_arr': yeniden tanımlama; temel türler farklı
