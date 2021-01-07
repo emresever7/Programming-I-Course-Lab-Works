@@ -1,0 +1,6 @@
+﻿  rpn_template.c
+H:\VS-Lab\lab13\rpn_template.c(36,11): warning C4473:  'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+H:\VS-Lab\lab13\rpn_template.c(36,11): message :  yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+H:\VS-Lab\lab13\rpn_template.c(36,11): message :  eksik 2 değişen sayıda bağımsız değişkeni '%c' biçim dizesi için gereklidir
+H:\VS-Lab\lab13\rpn_template.c(36,11): message :  bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+  lab13.vcxproj -> H:\VS-Lab\lab13\Debug\lab13.exe
